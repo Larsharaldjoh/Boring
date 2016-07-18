@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/dev/Extra/Web/Boring/Boring/Content/Reinhardt.png</File>
+    <File>C:/dev/Extra/Web/Boring/Boring/Content/logo.png</File>
+    <File>C:/dev/Extra/Web/Boring/Boring/Content/Roboto.spritefont</File>
+    <File>C:/dev/Extra/Web/Boring/Boring/Content/jump.ogg</File>
+    <File>C:/dev/Extra/Web/Boring/Boring/Content/song1.mp3</File>
+    <File>C:/dev/Extra/Web/Boring/Boring/Content/jump1.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

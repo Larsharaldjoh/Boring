@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/dev/Extra/Web/Boring/Boring/Content/song1.mp3</SourceFile>
+  <SourceTime>2015-12-16T09:33:21.4734989+01:00</SourceTime>
+  <DestFile>C:/dev/Extra/Web/Boring/Boring/Content/bin/Windows/song1.xnb</DestFile>
+  <DestTime>2016-07-18T14:27:42.8335328+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2015-04-29T19:14:44+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/dev/Extra/Web/Boring/Boring/Content/bin/Windows/song1.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
